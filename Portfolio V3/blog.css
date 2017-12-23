@@ -1,0 +1,52 @@
+body {
+
+background-color: #e0ebeb;
+
+}
+
+a {
+  color: #fff;
+
+}
+
+
+.blog-sidebar {
+
+  background-color: #c2d6d6;
+  padding: 1%;
+}
+
+.blog-header  {
+
+  padding-bottom: 8%;
+  padding-top: 4%;
+  background: url("https://i.imgur.com/ri8pb75.jpg") no-repeat center;
+
+
+}
+
+.blog-title {
+
+  font-size: 4rem;
+}
+
+.blog-description {
+
+
+
+}
+
+.blog-pagination {
+
+  margin-bottom: 20px;
+}
+
+.blog-title {
+  color: #fff;
+
+}
+
+.blog-description {
+  color:#fff;
+
+}
