@@ -339,7 +339,7 @@ span.glyphicon glyphicon-envelope:before {
     }
 }
 
-@media all and (max-width: 1026px) {
+@media all and (min-width: 800px) {
 
 .paragraph3 {
   margin-top: 8%;
